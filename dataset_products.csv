@@ -1,0 +1,31 @@
+id,title,description,category,brand,price
+1,Polo básico de algodón,"Polo de algodón suave, corte clásico.",ropa,UrbanWear,39.9
+2,Camiseta deportiva dry-fit,Camiseta transpirable para entrenar.,ropa,SportPlus,59.9
+3,Playera estampada vintage,Estilo retro con estampado frontal.,ropa,RetroVibes,49.9
+4,Remera oversize unisex,"Corte amplio, tela premium.",ropa,StreetLab,69.9
+5,Polera con cierre,Polera ligera con cremallera corta.,ropa,AndesCo,79.0
+6,Chompa tejido grueso,Suéter para clima frío.,ropa,AndesCo,120.0
+7,Pantalón jean slim,Jean azul clásico.,ropa,DenimWorks,129.9
+8,Zapatillas running ProRun,Calzado deportivo para correr.,calzado,RunFast,249.9
+9,Zapatillas urbanas StreetFlex,Sneakers para uso diario.,calzado,StreetLab,199.9
+10,Casaca rompeviento,Chaqueta ligera resistente al viento.,ropa,SportPlus,159.9
+11,Laptop 14'' Ultralight X,Notebook liviano para oficina y estudio.,electronica,TechOne,2899.0
+12,Smartphone MegaCam X2,"Cámara de 108MP, batería 5000mAh.",electronica,FonoMax,1699.0
+13,Audífonos inalámbricos BassGo,Bluetooth con cancelación pasiva.,electronica,SoundBox,299.0
+14,Televisor 55'' 4K Smart,Smart TV con HDR y apps.,electronica,ViewPro,1999.0
+15,Tablet 10'' EduTab,Para clases y entretenimiento.,electronica,TechOne,899.0
+16,Refrigeradora No Frost 300L,"Ahorro de energía, amplio espacio.",hogar,FrigiHome,2399.0
+17,Microondas 23L Grill,Con grill y funciones rápidas.,hogar,KitchenGo,499.0
+18,Licuadora PowerMix,"Motor potente, vaso de vidrio.",hogar,KitchenGo,259.0
+19,Aspiradora CycloneMax,Filtro HEPA y gran succión.,hogar,CleanUp,699.0
+20,Freidora de aire 5L,Cocción con poco aceite.,hogar,KitchenGo,399.0
+21,Camiseta manga larga térmica,Mantiene el calor corporal.,ropa,SportPlus,89.9
+22,Polo cuello en V,"Algodón pima, suave al tacto.",ropa,UrbanWear,69.9
+23,Playera básica unicolor,100% algodón peinado.,ropa,UrbanWear,34.9
+24,Camiseta sin mangas gym,Ideal para entrenamiento.,ropa,SportPlus,44.9
+25,Pantalón jogger,Comodidad para el día a día.,ropa,StreetLab,99.0
+26,Zapatillas trekking MountainX,Agarre y durabilidad en montaña.,calzado,TrailGear,349.0
+27,Sandalias comfort,Plantilla acolchada.,calzado,FootEase,79.9
+28,Buzo deportivo,Conjunto de abrigo ligero.,ropa,SportPlus,149.0
+29,Casaca de cuero,Look clásico y resistente.,ropa,UrbanWear,499.0
+30,Sombrero de ala corta,Estilo casual.,accesorios,AndesCo,59.0
